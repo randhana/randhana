@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randhana&label=Profile%20views&color=0e75b6&style=flat" alt="randhana" /> </p>
 
 - 🌱 I’m currently learning **Springboot, NodeJS**
-
+- 👨‍💻 My interests: **Backend Development, API Design, DevOps, Artificial Intelligence, Computer Vision, Penetration Testing**
 - 📫 How to reach me **pulathisi.kariyawasam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
