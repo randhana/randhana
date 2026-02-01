@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pulathisi Kariyawasam</h1>
-<h3 align="center">Driven by code, powered by innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randhana&label=Profile%20views&color=0e75b6&style=flat" alt="randhana" /> </p>
 
-- 🌱 I’m currently learning **Springboot, NodeJS**
-- 👨‍💻 My interests: **Backend Development, API Design, DevOps, Artificial Intelligence, Computer Vision, Penetration Testing**
-- 📫 How to reach me **pulathisi.kariyawasam@gmail.com**
+- Backend Software Engineer specializing in scalable API development, system integration, and cloud-native architectures.
+- 👨‍💻 Interests: **DevOps, System Automation, Application Security, Artificial Intelligence**
+- 📫 Contact: **pulathisi.kariyawasam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
